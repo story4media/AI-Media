@@ -1,7 +1,7 @@
 # AI-Media
 ## Main Image
 <p align="center">
-  <img height="300" src="[https://github.com/story4media/Ai-Image-Series/blob/main/images/images.jpeg](https://github.com/story4media/AI-Media/blob/main/Gemini_Generated_Image_x00oewx00oewx00o.png)">
+  <img height="300" src="https://github.com/story4media/AI-Media/blob/main/Gemini_Generated_Image_x00oewx00oewx00o.png">
 </p>
 
 ```
